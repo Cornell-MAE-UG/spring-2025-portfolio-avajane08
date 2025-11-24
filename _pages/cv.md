@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV](assets/Resume-Sept-2025.pdf) in PDF format.
+[Download my CV](/assets/Resume%20Sept%202025.pdf) in PDF format.
 
 
 **Email:** [ajf245@cornell.edu](mailto:ajf245@cornell.edu) | | | **Phone:** +1 716 770 5359
@@ -73,3 +73,4 @@ Engineering student with a strong foundation in understanding our physical world
 Available upon request.
 
 ---
+
