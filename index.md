@@ -6,7 +6,7 @@ title: <Ava Farkash>
 ## About Me
 
 
-![Profile picture]({{ '/assets/images/jank-boteko1.webp' | relative_url }})
+![Profile picture]({{ '/assets/images/rumorsSMpic.png' | relative_url }})
 
 
  

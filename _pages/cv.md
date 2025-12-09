@@ -24,23 +24,48 @@ Engineering student with a strong foundation in understanding our physical world
 - **Nichols High School**  
   *High School Diploma*  
   Graduation: June, 2023
-
+  Buffalo, NY
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks 2025, Onshape, Procore, Vectorworks 2025
+- **Software:** Autodesk Fusion 360, SolidWorks 2025, Onshape, Procore, Vectorworks 2025, ANSYS 2025
 - **Programming:** Basic Python, Basic MATLAB  
 - **Tools:** Machine Shop Tools, Hand Tools, 3D Printing, Red Apron Trained (Emerson Manufacturing Lab)
 
 ---
 
 #### Projects
-- **[Project Title]**:  
+- **[Testing Rig for Landing Gear - DBF]**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Project Title]**:  
+- **[Duck Compartment - DBF]**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **[Orange Crusher - MAE 2250]**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **[Set Construction for Rumors - CDTT]**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **[Fluid Mechanical Dissection - MAE 3230]**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **[Systems Drone Dissection - MAE 3260]**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **[Torque Wrench Analysis - MAE 3270]**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
@@ -48,16 +73,25 @@ Engineering student with a strong foundation in understanding our physical world
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Spot Coffee] - Barista/Cashier**  
+  [May, 2023] - [August, 2024]  
+  - Made drinks   
+  - Customer interactions   
 
+- **[Arc Building Partners] - Field Operations Intern**  
+  [June, 2025] - [August, 2025]  
+  - Created a closeout documentation organizational system for local Art Museum   
+  - Learned and utilized construction management software to help with starting paperwork for new projects (Procore) 
+
+- **[Special Events Crew - Performing Media Arts Department] - Crew Member**  
+  [September, 2025] - [Current ]  
+  - Light/sound board operation for PMA Department events 
+  - Job as called for   
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [Red Apron Certification], [Emerson Manufacturing Lab], [2025]  
+  
 
 ---
 
