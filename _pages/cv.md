@@ -23,7 +23,7 @@ Engineering student with a strong foundation in understanding our physical world
 
 - **Nichols High School**  
   *High School Diploma*  
-  Graduation: June, 2023
+  *Graduation: June, 2023*
   Buffalo, NY
 ---
 
@@ -35,37 +35,37 @@ Engineering student with a strong foundation in understanding our physical world
 ---
 
 #### Projects
-- **[Testing Rig for Landing Gear - DBF]**:  
+- **Testing Rig for Landing Gear - DBF**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Duck Compartment - DBF]**:  
+- **Duck Compartment - DBF**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Orange Crusher - MAE 2250]**:  
+- **Orange Crusher - MAE 2250**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Set Construction for Rumors - CDTT]**:  
+- **Set Construction for Rumors - CDTT**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Fluid Mechanical Dissection - MAE 3230]**:  
+- **Fluid Mechanical Dissection - MAE 3230**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Systems Drone Dissection - MAE 3260]**:  
+- **Systems Drone Dissection - MAE 3260**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Torque Wrench Analysis - MAE 3270]**:  
+- **Torque Wrench Analysis - MAE 3270**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
@@ -73,24 +73,25 @@ Engineering student with a strong foundation in understanding our physical world
 ---
 
 #### Work Experience
-- **[Spot Coffee] - Barista/Cashier**  
-  [May, 2023] - [August, 2024]  
+- **Spot Coffee - Barista/Cashier**  
+  May, 2023 - August, 2024  
   - Made drinks   
   - Customer interactions   
 
-- **[Arc Building Partners] - Field Operations Intern**  
-  [June, 2025] - [August, 2025]  
+- **Arc Building Partners - Field Operations Intern**  
+  June, 2025 - August, 2025  
   - Created a closeout documentation organizational system for local Art Museum   
   - Learned and utilized construction management software to help with starting paperwork for new projects (Procore) 
 
-- **[Special Events Crew - Performing Media Arts Department] - Crew Member**  
-  [September, 2025] - [Current ]  
+- **Special Events Crew - Performing Media Arts Department - Crew Member**  
+  September, 2025 - Current   
   - Light/sound board operation for PMA Department events 
   - Job as called for   
+  
 ---
 
 #### Achievements & Certifications
-- [Red Apron Certification], [Emerson Manufacturing Lab], [2025]  
+- Red Apron Certification, Emerson Manufacturing Lab, [2025]  
   
 
 ---

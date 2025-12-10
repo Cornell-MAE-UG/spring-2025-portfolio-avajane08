@@ -200,4 +200,23 @@ footer {
   transform: translateX(-4px);
 }
 
+.profile-pic {
+  float: left;
+  width: 220px;       // adjust as you like
+  height: auto;
+  margin: 0 1.5rem 1rem 0;  // space on right & below so text doesn’t touch
+  border-radius: 4px;       // optional, just looks nice
+}
+
+
+@media (max-width: 768px) {
+  .profile-pic {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+    width: 80%;       
+  }
+}
+
+
 

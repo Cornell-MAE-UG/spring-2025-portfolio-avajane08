@@ -5,20 +5,42 @@ description: This assignment involves designing an instrumented 3/8-inch drive t
 technologies: [Fusion 360, Ansys]
 image: /assets/images/CTWCAD.png
 ---
-![CAD model]({{ '/assets/images/CTWCAD.png' | relative_url }})
 
-![Engineering drawing]({{ '/assets/images/engdrawingCTW.png' | relative_url }})
+<img src="{{ '/assets/images/CTWCAD.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
+The material used for this torque wrench design is a quenched and tempered low alloy steel, AISI 4340. The value of poisson’s ratio is between 0.29-0.33; I selected 0.33. The Young’s Modulus is 30.5x10<sup>6</sup> psi and the fracture toughness is 82.5x10<sup>3</sup> psi*√(in). The ultimate tensile strength is 240 ksi and the fatigue strength is 100 ksi. This material was chosen for its high ductility, strength, and toughness.
 
-![Load point deflection – 4.4x scale]({{ '/assets/images/CTW-load-point-deflection-4.4x-scale.png' | relative_url }})
+<img src="{{ '/assets/images/engdrawingCTW.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
+Engineering drawing with dimensions of my custom torque wrench from Fusion 360. 
 
-![Load point deflection – true scale]({{ '/assets/images/CTW-load-point-deflection-true-scale.png' | relative_url }})
+<img src="{{ '/assets/images/CTW-load-point-deflection-4.4x-scale.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
 
-![Max normal stress with probe]({{ '/assets/images/CTW-max-normal-stress-w-probe.png' | relative_url }})
+<img src="{{ '/assets/images/CTW-load-point-deflection-true-scale.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
 
-![Max principal stress 1]({{ '/assets/images/CTW-max-principal-stress-1.png' | relative_url }})
+<img src="{{ '/assets/images/CTW-max-normal-stress-w-probe.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
 
-![Max principal stress 2]({{ '/assets/images/CTW-max-principal-stress-2.png' | relative_url }})
+<img src="{{ '/assets/images/CTW-max-principal-stress-1.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
 
-![Normal strain contours]({{ '/assets/images/CTW-normal-strain-contours-1.png' | relative_url }})
+<img src="{{ '/assets/images/CTW-max-principal-stress-2.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
 
-![Strain at gauge]({{ '/assets/images/CTW-strain-at-gauge.png' | relative_url }})
+<img src="{{ '/assets/images/CTW-normal-strain-contours-1.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
+
+<img src="{{ '/assets/images/CTW-strain-at-gauge.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
+The strain gauge selected for my custom wrench is the C5K-06-S5145-350-33F from DigiKey electronics. The dimensions are...
