@@ -16,6 +16,11 @@ The material used for this torque wrench design is a quenched and tempered low a
      width="600">
 Engineering drawing with dimensions of my custom torque wrench from Fusion 360. (Q1)
 
+<img src="{{ '/assets/images/Q3part2.png' | relative_url }}" 
+     alt="Torque Wrench CAD"
+     width="600">
+Diagram communicating how loads and boundary conditions were applied to my FEM model. (Q3)
+
 <img src="{{ '/assets/images/CTW-load-point-deflection-4.4x-scale.png' | relative_url }}" 
      alt="Torque Wrench CAD"
      width="600">
@@ -52,3 +57,5 @@ Normal strain contours. (Q4)
 Strain at the gauge. The gauge is lcoated 1 inch from the center line of the drive. The torque wrench sensitivity is 1.078 mV/V. (Q6 and Q7)
 
 The strain gauge selected for my custom wrench is the single linear general purpose strain gauge from DigiKey electronics. The dimensions are 0.095 in by 0.063 in, and will thus have no problem being secured on the side of my custom wrench whose side face has dimensions 0.4 in by 17 in. (Q8)
+
+Check out the specifics of the strain gauge [ here ]({{ "/assets/straingaugedata.pdf" | relative_url }})
