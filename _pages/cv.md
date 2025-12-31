@@ -19,7 +19,7 @@ Engineering student with a strong foundation in understanding our physical world
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering*  
-  GPA: 2.9/4.0 | Graduation: May, 2027
+  GPA: 2.93/4.0 | Graduation: May, 2027
   *Ithaca, NY*
 
 - **Nichols High School**  
@@ -42,35 +42,36 @@ Engineering student with a strong foundation in understanding our physical world
   - Found estimate of maximum load that can be applied to the front landing gear    
   - First real project and contribution to DBF   
 
+
 - **Duck Bay - DBF**:  
   *Designed, prototyped, and constructed a passenger (rubber ducks) compartment to ensure security within the fuselage. Completed over the course of the first semester of the 25-26 season. *  
   - Participated and oversaw the start to finish of this process   
   - Improved my prototyping and mechanical reasoning skills 
+
 
 - **Fuselage Duck Hatch - DBF**:  
   *Designed and iterated a hatch for the back of the fuselage to allow for easy entry and exit of the duck bay Two main designs were decided upon, varying int their opening mechanisms to consider different orientations of other systems on the exterior of the plane such as the banner deployment mechanism.  *  
   - Worked on my integration skills, considering and working around other components of the plane  
   - Creative problem solving   
 
-- **Orange Crusher - MAE 2250**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 - **Set Construction for Rumors - CDTT**:  
   *Drafted and constructed set pieces based off of a premeditated design. Worked in the set shop in the Schwartz Center for Performing Media Arts alongside the shop's Assistant Technical Director and my fellow theater troupe mates. *  
   - Learned how to use Vectorworks for drafting as well as a pneumatic staple gun 
   - Learned basics of set construction and assembly methods 
 
+
 - **Fluid Mechanical Dissection - MAE 3230**:  
   *Documented the process of completely taking apart a gas powered air blower to explore the fluid mechanical systems included inside the machine. Got to do hands on work using tools in the Toyota Forklift Studio with my group. We created a short video describing, how it works, the fluids concepts employed in the machine, and used actual dimensions from our blower to do calculations. *  
   - Particpated in hands on discovery and connected concepts learned in class to a real life machine  
   - Enforced good group working habits in myself with respect to scheduling and thorough information gathering 
 
+
 - **Systems Drone Dissection - MAE 3260**:  
   *Wrote a project proposal and report with a group on the dynamic systems that a hand-altitude-controlled "UFO style" drone uses to function. We were also able to take apart the drone and investigate how the systems connected to each other. Used a high speed camera to capture rotor movement and visually calculate the angular velocity in rpm.*  
   - Learned/researched about basic PID control in drones   
   - Connected systems learned about in class to a physical object 
+
 
 - **Torque Wrench Analysis - MAE 3270**:  
   *Used a MatLab script and Ansys to confirm the data for a given torque wrench design. Created another MatLab script to generate possible custom designs based off of requirements for various safety factors and torque wrench sensitivity output.*  

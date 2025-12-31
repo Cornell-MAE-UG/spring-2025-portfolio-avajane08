@@ -3,7 +3,7 @@
 
 $color_scheme: {{ site.color_scheme }};
 
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&display=swap");
 @import "custom";
 
 /* Grid layout (KEEP THIS) */
@@ -52,7 +52,20 @@ $color_scheme: {{ site.color_scheme }};
   overflow: visible;
 }
 
+.image-row {
+  display: flex;
+  gap: 1rem;
+}
 
+.image-row img {
+  flex: 1;          /* THIS is the key */
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: "Crimson Pro", Cambria, "Times New Roman", serif !important;
+}
 
 
   
