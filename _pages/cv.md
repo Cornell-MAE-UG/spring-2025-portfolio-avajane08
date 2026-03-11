@@ -43,6 +43,12 @@ Engineering student with a strong foundation in understanding our physical world
   - First real project and contribution to DBF   
 
 
+- **Glider Construction - DBF**:  
+  *Iterated and assembled foam glider (X-1 Test Vehicle) for Mission 3 of challenge. Created basic glider design and initial test cuts alongside teammate. Completed over the course of the second semester of the 24-25 season. *  
+  - Learned how to use hot wire cutter and hot knife     
+  - Prototyping 
+
+
 - **Duck Bay - DBF**:  
   *Designed, prototyped, and constructed a passenger (rubber ducks) compartment to ensure security within the fuselage. Completed over the course of the first semester of the 25-26 season. *  
   - Participated and oversaw the start to finish of this process   
