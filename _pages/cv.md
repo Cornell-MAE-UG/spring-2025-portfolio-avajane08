@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Resume-Dec-2025.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Resume-May-2026.pdf" | relative_url }}) in PDF format.
 
 **Email:** [ajf245@cornell.edu](mailto:ajf245@cornell.edu) | | | **Phone:** +1(716)770-5359
 
@@ -20,12 +20,12 @@ Engineering student with a strong foundation in understanding our physical world
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering*  
   GPA: 2.93/4.0 | Graduation: May, 2027
-  *Ithaca, NY*
+  *in Ithaca, NY*
 
 - **Nichols High School**  
   *High School Diploma*  
   *Graduation: June, 2023*
-  *Buffalo, NY*
+  *in Buffalo, NY*
 
 ---
 
