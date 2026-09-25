@@ -5,13 +5,11 @@ title: Ava Farkash
 
 ## About Me
 
-<img src="{{ '/assets/images/profilepic.jpeg' | relative_url }}" alt="Profile picture" class="profile-pic">
+<img src="{{ '/assets/images/newheadshot.jpeg' | relative_url }}" alt="Profile picture" class="profile-pic">
 
-My name is Ava Farkash, and I am a Mechanical Engineering student at Cornell University. In the Fall of 2024 I became a member of the mechanical subteam on Cornell University's Design Build Fly Project Team. Throughout my time on this team I have learned invaluable skills such as the principles of flight and aerodynamics, manufacturing various composites (notably and most often custom carbon fiber fabrication), inter-team communication and organization, and prototyping.
+My name is Ava Farkash, and I am a Mechanical Engineering student at Cornell University. In the Fall of 2024 I became a member of the mechanical subteam on Cornell University's Design Build Fly Project Team, and since April 2026 I have served as the team's Safety Officer and Recruitment Chair. Throughout my time on this team I have learned invaluable skills such as the principles of flight and aerodynamics, manufacturing various composites (notably and most often custom carbon fiber fabrication), inter-team communication and organization, and prototyping.
 
-I have been a member of Cog Dog Theater Troupe on campus since the Spring of 2024 and have acted as assisant technical director (Fall 2024–Spring 2025) and full technical director (Fall 2025-Spring 2026) on the club's Executive Board. Participating in technical theater on campus continues to be one of my greatest passions and gives me space to enhance my non-STEM pursuits.
-
-I am also a member of Cornell's chapter of Guiding Eyes for the Blind and have been a sitter since Fall 2025. I believe this volunteer organization has positively contributed to my experiences and mindset at Cornell. In the 26-27 academic year I will be serving as Secretary on the Executive Board.
+I have been a member of Cog Dog Theater Troupe on campus since the Spring of 2024 and have acted as assistant technical director (Fall 2024–Spring 2025) and full technical director (Fall 2025-Fall 2026) on the club's Executive Board. Participating in technical theater on campus continues to be one of my greatest passions and gives me space to enhance my non-STEM pursuits. I am also a member of Cornell's chapter of Guiding Eyes for the Blind and have been a sitter since Fall 2025. I believe this volunteer organization has positively contributed to my experiences and mindset at Cornell.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
 

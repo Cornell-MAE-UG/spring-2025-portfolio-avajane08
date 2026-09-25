@@ -18,7 +18,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: dark # light/default, dark, or aqua
+color_scheme: light # light/default, dark, or aqua
 
 sass:
   style: compressed
