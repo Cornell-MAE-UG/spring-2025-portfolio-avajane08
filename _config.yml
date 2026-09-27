@@ -38,6 +38,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+# Files that stay in the repo but are not published
+exclude:
+  - CLAUDE.md
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-feed

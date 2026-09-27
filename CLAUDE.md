@@ -67,9 +67,8 @@ show_hero: true                     # optional: also show the image floated at t
 - Keep CV project entries consistent with the projects on the site, and dates consistent with the resume PDF.
 
 ## Known issues (not yet fixed)
-- `_projects/DBF25-26.md` and `_projects/DBF26-27.md` have no body content yet.
+- `_projects/DBF25-26.md` and `_projects/DBF26-27.md` only have a short under-construction/ongoing note so far.
 - `_pages/projects.md` title is `<Ava Farkash> - Portfolio`, and the footer says "© 2024".
 - `url` in `_config.yml` is blank and `README.md` is still the course instructions.
 - Older resume PDFs and stray files (`3240pset4(1).pdf`) sit in `assets/`.
 - The CV Projects section has no entries for DBF 26-27 or the Rigidized projects.
-- `CLAUDE.md` is not in `exclude:` in `_config.yml`, so Jekyll publishes it at `/CLAUDE/`.
