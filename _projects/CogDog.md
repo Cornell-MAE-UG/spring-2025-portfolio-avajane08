@@ -7,72 +7,92 @@ image: /assets/images/rumorsSMpic.png
 category: beyond
 ---
 
+### *Arcadia* by Tom Stoppard
+*Spring 2026 · Role: Assistant Director & Stage Manager*
 
-
-
-
-*Hurricane Diane* by Madeleine George 
-
-*Fall 2025*
-
-*Role: Stage Manager & Lighting Operator*
-<img src="{{ '/assets/images/HDset.JPG' | relative_url }}" 
-     alt="Hurricane Diane Partial Set"
-     width="600">
-*Hurricane Diane* partial set picture. 
-
-<div class="image-row">
-    <img src="{{ '/assets/images/HDcast&crew.JPG' | relative_url }}">
-    <img src="{{ '/assets/images/HDtalkback.JPG' | relative_url }}" >
-</div>
-The complete cast and crew and the post-show talkback.
-
----
-
-*Rumors* by Neil Simon
-
-*Spring 2025*
-
-*Role: Stage Manager & Set Constructor*
-<div class="image-row">
-  <img src="{{ '/assets/images/VW1.png' | relative_url }}">
-  <img src="{{ '/assets/images/VW2.png' | relative_url }}">
+<div class="photo-row">
+  <figure>
+    <img src="{{ '/assets/images/arcadia-rehearsal.jpg' | relative_url }}" alt="Two people talking during an Arcadia rehearsal">
+    <figcaption>A moment from rehearsal.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/arcadia-cast-room.jpg' | relative_url }}" alt="The Arcadia cast gathered on the floor of the rehearsal room">
+    <figcaption>The cast gathered in the rehearsal room.</figcaption>
+  </figure>
 </div>
 
+---
 
-<img src="{{ '/assets/images/VW3.png' | relative_url }}"
-    alt="Vectorworks pic"
-    width="600">
-Sketch pictures from set construction.
+### *Hurricane Diane* by Madeleine George
+*Fall 2025 · Role: Stage Manager & Lighting Operator*
 
-<div style="display: flex; gap: 1rem;">
-  <img src="{{ '/assets/images/rumorsfullsketch.png' | relative_url }}" style="width: 90%;">
-  <img src="{{ '/assets/images/Rumorsset.jpeg' | relative_url }}" style="width: 90%;">
+<div class="photo-row">
+  <figure>
+    <img src="{{ '/assets/images/HDset.JPG' | relative_url }}" alt="Hurricane Diane partial set">
+    <figcaption><em>Hurricane Diane</em> partial set picture.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/HDcast&crew.JPG' | relative_url }}" alt="The complete cast and crew of Hurricane Diane">
+    <figcaption>The complete cast and crew.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/HDtalkback.JPG' | relative_url }}" alt="The Hurricane Diane post-show talkback">
+    <figcaption>The post-show talkback.</figcaption>
+  </figure>
 </div>
-Full reference sketch of the set design and the finished set before opening night!
-
-
-<img src="{{ '/assets/images/Rumorsend.jpeg' | relative_url }}" 
-     alt="Rumors Finale"
-     width="400">
-
-
-Closing remarks after the final performance. 
 
 ---
 
-*Cosi* by Louis Nowra 
+### *Rumors* by Neil Simon
+*Spring 2025 · Role: Stage Manager & Set Constructor*
 
-*Fall 2024*
+<div class="photo-row">
+  <figure>
+    <img src="{{ '/assets/images/VW1.png' | relative_url }}" alt="Vectorworks drafting of the Rumors set, view 1">
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/VW2.png' | relative_url }}" alt="Vectorworks drafting of the Rumors set, view 2">
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/VW3.png' | relative_url }}" alt="Vectorworks drafting of the Rumors set, view 3">
+  </figure>
+</div>
+<p class="photo-caption">Sketch pictures from set construction.</p>
 
-*Role: Stage Manager*
+<div class="photo-row">
+  <figure>
+    <img src="{{ '/assets/images/rumorsfullsketch.png' | relative_url }}" alt="Full reference sketch of the Rumors set design">
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/Rumorsset.jpeg' | relative_url }}" alt="The finished Rumors set before opening night">
+  </figure>
+</div>
+<p class="photo-caption">Full reference sketch of the set design and the finished set before opening night!</p>
+
+<div class="photo-row">
+  <figure>
+    <img src="{{ '/assets/images/Rumorsend.jpeg' | relative_url }}" alt="Rumors finale">
+    <figcaption>Closing remarks after the final performance.</figcaption>
+  </figure>
+</div>
 
 ---
 
-*She Kills Monsters* by Qui Nguyen 
+### *Cosi* by Louis Nowra
+*Fall 2024 · Role: Stage Manager*
 
-*Spring 2024*
-
-*Role: Stage Hand & Props Master*
+<div class="photo-row">
+  <figure>
+    <img src="{{ '/assets/images/cosi-performance.jpg' | relative_url }}" alt="A scene from the Cosi performance">
+    <figcaption>A scene from the performance.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/cosi-cast-crew.jpg' | relative_url }}" alt="The Cosi cast and crew gathered together">
+    <figcaption>The cast and crew together.</figcaption>
+  </figure>
+</div>
 
 ---
+
+### *She Kills Monsters* by Qui Nguyen
+*Spring 2024 · Role: Stage Hand & Props Master*

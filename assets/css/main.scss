@@ -286,3 +286,52 @@ footer a {
   border: 3px solid #1c2842;
 }
 
+/* Small photo rows on project pages: <div class="photo-row"><figure><img><figcaption></figcaption></figure>...</div>
+   Every photo is the same width (2 per row), so rows of 1 or 2 photos match. */
+.photo-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.photo-row figure {
+  flex: 0 1 calc(50% - 0.4rem);
+  margin: 0;
+}
+
+.photo-row img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+}
+
+.photo-row figcaption,
+.photo-caption {
+  font-size: 0.9rem;
+  line-height: 1.35;
+  color: #5a6172;
+  margin-top: 0.4rem;
+}
+
+.photo-caption {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+/* Add "three" for 3 photos per row: <div class="photo-row three"> */
+.photo-row.three figure {
+  flex-basis: calc(33.333% - 0.5rem);
+}
+
+@media (max-width: 480px) {
+  .photo-row figure {
+    flex-basis: 100%;
+  }
+
+  .photo-row.three figure {
+    flex-basis: calc(50% - 0.4rem);
+  }
+}
+
